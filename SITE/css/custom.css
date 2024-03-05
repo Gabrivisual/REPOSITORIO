@@ -337,6 +337,7 @@ padding: 50px 0;
     .projetos .projetos-content .bloco:hover{
         transform:rotate(0deg);
     }
+}
 footer{
     background-color: var(--second-color);
     padding: 25px 23px;
@@ -350,5 +351,4 @@ footer span a{
 }
 footer span a:hover{
     color: var(--active-color);
-}
 }
